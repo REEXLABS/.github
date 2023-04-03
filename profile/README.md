@@ -4,4 +4,4 @@ We are a team of passionate developers building software to empower our fellow d
 
 # About our projects
 
-We are working on exciting projects in the shadows and each one of them will be opensourced once they reach their MVP stage. Follow our profile to stay updated on everything we release
+## We are working on exciting projects in the shadows and each one of them will be opensourced once they reach their MVP stage. Follow our profile to stay updated on everything we release
